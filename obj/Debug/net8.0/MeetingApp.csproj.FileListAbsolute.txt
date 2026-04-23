@@ -26,3 +26,6 @@
 /Users/leventcanceylan/Documents/MyProjects/MeetingApp/obj/Debug/net8.0/ref/MeetingApp.dll
 /Users/leventcanceylan/Documents/MyProjects/MeetingApp/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
 /Users/leventcanceylan/Documents/MyProjects/MeetingApp/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/leventcanceylan/Documents/MyProjects/MeetingApp/bin/Debug/net8.0/libman.json
+/Users/leventcanceylan/Documents/MyProjects/MeetingApp/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/leventcanceylan/Documents/MyProjects/MeetingApp/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json

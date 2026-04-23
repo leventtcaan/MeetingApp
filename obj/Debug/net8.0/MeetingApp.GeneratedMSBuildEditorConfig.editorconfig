@@ -42,8 +42,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlld0ltcG9ydHMuY3NodG1s
+[/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/_ViewStart.cshtml]

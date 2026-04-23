@@ -6,6 +6,8 @@ namespace MeetingApp.Controllers
     {
         public IActionResult Index()
         {
+            int hour = DateTime.Now.Hour;
+            ViewBag.Greeting = hour > 12 ? "İyi Günler!" : "Günaydın";
             return View();
         }
     }

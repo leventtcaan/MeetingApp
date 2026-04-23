@@ -19334,8 +19334,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/ViewImports.cshtml",
-      "TargetPath": "Views\\ViewImports.cshtml",
+      "FilePath": "/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
