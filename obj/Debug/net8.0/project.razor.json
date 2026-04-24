@@ -19359,13 +19359,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/Shared/_Layout2.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout2.cshtml",
+      "FilePath": "/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/Meeting/Thanks.cshtml",
+      "TargetPath": "Views\\Meeting\\Thanks.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/Meeting/Index.cshtml",
-      "TargetPath": "Views\\Meeting\\Index.cshtml",
+      "FilePath": "/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/Shared/_Layout2.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout2.cshtml",
       "FileKind": "mvc"
     }
   ],

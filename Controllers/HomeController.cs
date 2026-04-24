@@ -9,7 +9,6 @@ namespace MeetingApp.Controllers
         {
             int hour = DateTime.Now.Hour;
             ViewData["Greeting"] = hour < 12 ? "Good Morning" : "Good Afternoon";
-            ViewData["UserName"] = "Levent Can";
 
             var meetinInfo = new MeetingInfo
             {
