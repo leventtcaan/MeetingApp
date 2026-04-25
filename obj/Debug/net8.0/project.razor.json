@@ -19364,6 +19364,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/Meeting/Details.cshtml",
+      "TargetPath": "Views\\Meeting\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/leventcanceylan/Documents/MyProjects/MeetingApp/Views/Shared/_Layout2.cshtml",
       "TargetPath": "Views\\Shared\\_Layout2.cshtml",
       "FileKind": "mvc"
