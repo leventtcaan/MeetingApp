@@ -9,7 +9,7 @@
     @if(Model.Participation == true)
     {
     <p>Dear, @Model.Name Thank you for your participation! @ViewBag.UserCount people, including you, are attending the meeting.</p>
-    <a href="#">List the participants</a>
+    <a asp-controller="Meeting" asp-action="List" >List the participants</a>
     }else
     {
         <p>Dear, @Model.Name We're sorry you didn't attend the meeting.</p>

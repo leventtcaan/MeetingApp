@@ -9,13 +9,15 @@ namespace MeetingApp.Controllers
         {
             int hour = DateTime.Now.Hour;
             ViewData["Greeting"] = hour < 12 ? "Good Morning" : "Good Afternoon";
+            int userCount = ViewBag.UserCount = Repository.Users.Where(info => info.Participation == true).Count();
+
 
             var meetinInfo = new MeetingInfo
             {
                 Id = 1,
                 Location = "İzmir",
                 Date = new DateTime(2026, 4, 24, 01, 17, 0),
-                NumberOfPeople = 10
+                NumberOfPeople = userCount
             };
             return View(meetinInfo);
         }
